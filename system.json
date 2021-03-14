@@ -60,6 +60,6 @@
   "secondaryTokenAttribute": null,
   "minimumCoreVersion": "0.4.2",
   "url": "https://github.com/DimaBelanohi/aime2v",
-  "manifest": "https://raw.githubusercontent.com/DimaBelanohi/aime2v/main/system.json",
-  "download": "https://github.com/DimaBelanohi/aime2v/blob/main/archive/v3.20.6.zip?raw=true"
+  "manifest": "https://raw.githubusercontent.com/DimaBelanohi/aime2v/master/system.json",
+  "download": "https://github.com/DimaBelanohi/aime2v/blob/master/archive/v3.20.6.zip?raw=true"
 }
